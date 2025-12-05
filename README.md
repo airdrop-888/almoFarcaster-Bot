@@ -2,11 +2,7 @@
 
 ### **SCRIPT AUTO FARMING GRATIS**
 
-     ___   __  __  _   _   ____    ____ ___  _   _ 
-     / _ \ |  \/  || | | | | __ )  | __ )_ _|| \ | |
-    | | | || |\/| || | | | |  _ \  |  _ \| | |  \| |
-    | |_| || |  | || |_| | | |_) | | |_) | | | |\  |
-     \___/ |_|  |_| \___/  |____/  |____/___||_| \_|
+![✅ REQUEST DIKABULKAN! Buatin Bot Almo Farcaster Untuk Subscriber  Auto Like, Recast   Reply!](https://github.com/user-attachments/assets/bfec4bbf-1fcb-4f90-91b3-34abf872ba48)
 
 Sebuah tool canggih yang dirancang untuk mengotomatisasi interaksi Anda
 di platform **Almo Farcaster**.\
@@ -32,15 +28,6 @@ berbasis `rich`.
     langsung.\
 -   **\[+\] Anti-Deteksi** --- Menggunakan delay acak seperti manusia
     asli.
-
-------------------------------------------------------------------------
-
-## 📸 Tampilan Script
-
-> Sangat disarankan menambahkan screenshot Anda di bagian ini agar
-> README lebih menarik.
-
-**\[Tempatkan screenshot Anda di sini\]**
 
 ------------------------------------------------------------------------
 
@@ -149,4 +136,4 @@ Gunakan dengan bijak.\
 ### 👨‍💻 Kredit
 
 Script dikembangkan oleh **@balveerxyz**\
-Didistribusikan ulang oleh **Airdrop 888**
+Didistribusikan oleh **Airdrop 888**
