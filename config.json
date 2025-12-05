@@ -1,0 +1,18 @@
+{
+  "fid": 1412147, ## ganti FID kalian
+  "wallet_address": "0x27e87cb6b52db8c8c752e9f12081212DSD33EV",
+  "username": "gantiusername",
+  "delay_min": 5,
+  "delay_max": 15,
+  "do_like": true,
+  "do_recast": true,
+  "do_follow": true,
+  "do_reply": true,
+  "custom_reply": [
+    "LFG! 🚀",
+    "Great project! 🔥",
+    "Nice cast buddy! 👏",
+    "GM GM ☀️",
+    "Keep building! 🧱"
+  ]
+}
