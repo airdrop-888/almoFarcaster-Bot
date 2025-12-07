@@ -78,20 +78,21 @@ pip install -r requirements.txt
 
 ``` json
 {
-  "fid": "MASUKKAN_FID_ANDA",
-  "username": "MASUKKAN_USERNAME_ANDA",
+  "fid": 4543235,
+  "wallet_address": "GANTI WALLET ADDRESS",
+  "username": "GANTI USERNAME",
+  "delay_min": 5,
+  "delay_max": 15,
   "do_like": true,
   "do_recast": true,
   "do_follow": true,
   "do_reply": true,
-  "delay_min": 10,
-  "delay_max": 25,
   "custom_reply": [
-    "LFG!",
-    "This is amazing!",
-    "Great project!",
-    "To the moon!",
-    "Awesome work team!"
+    "LFG! 🚀",
+    "Great project! 🔥",
+    "Nice cast buddy! 👏",
+    "GM GM ☀️",
+    "Keep building! 🧱"
   ]
 }
 ```
