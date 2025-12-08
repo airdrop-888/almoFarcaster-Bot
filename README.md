@@ -10,6 +10,7 @@ Maksimalkan efisiensi dan farming poin dengan fitur lengkap + TUI modern
 berbasis `rich`.
 
 ------------------------------------------------------------------------
+## New Update!! Support Multi Account just add fid|username|walletaddress on accounts.txt file
 
 ## ✨ Fitur Utama
 
